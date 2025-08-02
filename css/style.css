@@ -1,0 +1,50 @@
+#seometa-theme {
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  color: #3b3a3a;
+}
+
+#seometa-theme.dark {
+  background-color: #3b3a3a;
+  color: #ffffff;
+}
+
+.seometa-title {
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.seometa-field {
+  margin: 15px 0;
+}
+
+.seometa-field label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.seometa-field input,
+.seometa-field textarea {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+#theme-toggle-btn {
+  margin: 10px 0;
+  padding: 6px 12px;
+  font-size: 16px;
+  cursor: pointer;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10%;
+  font-weight: 400;
+  background-color: #3b3a3a;
+  color: #ffffff;
+}
