@@ -37,13 +37,8 @@
 3. Fill in your SEO tags and click Update/Publish.
 
 ## 📸 Screenshots
-      | Light Theme | 
+
  <img width="946" height="428" alt="SEO1" src="https://github.com/user-attachments/assets/908234ad-8510-409a-b62d-b0affc12903a" />
 <img width="947" height="368" alt="SEO2" src="https://github.com/user-attachments/assets/00860417-a507-4e42-8870-494a64051b18" />
 <img width="925" height="388" alt="SEO3" src="https://github.com/user-attachments/assets/84ddd84e-a8cd-46e7-a1a3-4da8ccd385b2" />
 <img width="389" height="35" alt="SEO4" src="https://github.com/user-attachments/assets/f5d02876-1c0e-464d-b2ea-f747790745d7" />
-
-
-
-   ```bash
-   git clone https://github.com/yourusername/seo-metamate.git
